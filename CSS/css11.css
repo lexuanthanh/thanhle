@@ -1,0 +1,72 @@
+@charset "utf-8";
+/* CSS Document */
+div.head {
+	background-image:url(saodem.jpg);
+	font-size:160%;
+	color:#CF0;
+	text-align:center;
+	padding:35px;
+}
+div.headlink {
+	background-color:#03F;
+	text-align:center;
+	padding:5px;
+}
+div.left {
+	background-color:#060;
+	float:left;
+	width:15%;
+	height:450px;
+	margin-bottom:50%;
+}
+ul {color:#FFF;}
+li {list-style:disc;}
+li:last-child {list-style:none;}
+div.right {
+	background-color:#060;
+	float:right;
+	height:450px;
+	width:25%;
+}
+div.one {
+	border:solid 1px #00FF66;
+	border-radius:10px;
+	text-align:center;
+	margin:5px;
+	padding:30px;
+	height:92px;
+	background-color:#FF9;
+}
+div.footer {
+	background-color:#03F;
+	color:#FF3;
+	font-weight:bold;
+	text-align:center;
+	clear:left;
+	clear:right;
+	padding:10px;
+}
+a {
+	text-decoration:none;
+	color:#FFF;
+	margin:5px;
+}
+div.content {
+	width:75%;
+	height:450px;
+}
+div.two {
+	width:35%;
+	background-color:#999;
+	float:left;
+	height:215px;
+	margin:5px;
+}
+div.three {
+	width:35%;
+	margin:5px;
+	overflow:scroll;
+	height:215px;
+	background-color:#999;
+	float:left;
+}

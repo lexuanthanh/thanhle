@@ -1,0 +1,41 @@
+@charset "utf-8";
+/* CSS Document */
+h1 {
+	color:#3C0;
+}
+a {
+	color:#CFF;
+	margin:10px;
+}
+a:link
+{
+	color:#CFF;
+	text-decoration:none;
+}
+a:hover {
+	color:#F30;
+}
+a.one {
+	text-shadow: 2px 2px #CCFF00;
+	color:#CF6;
+	font-size:140%;
+	margin:5px;
+}
+a.two {
+	float:right;
+	margin-top:3px;
+}
+a.three {
+	font-size:200%;
+	color:#3C6;
+}
+a.three:hover { color:#F00;}
+button {
+	background-color:#39F;SX
+	color:#FFF;
+}
+div {
+	border: solid 1px;
+	background-color:#09C;
+	pading 10px;
+}

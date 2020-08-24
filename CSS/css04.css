@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* CSS Document */
+a:link {
+    color: rgb(45, 233, 7);
+    text-decoration: none;
+}
+
+a:visited {
+    color: rgb(0, 183, 255);
+    text-decoration: none;
+}
+
+a:hover {
+    color: red;
+    text-decoration: underline;
+}
